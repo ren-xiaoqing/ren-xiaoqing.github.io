@@ -1,0 +1,34 @@
+.xqing-img {
+  width: 200px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.position {
+  font-weight: bold;
+}
+.xqing-context {
+  margin: 50px;
+  margin-top: 0px;
+}
+.thart-context {
+  margin: 10px;
+  float: right;
+}
+.thart-facebook-link {
+  text-decoration: none;
+  color: blue;
+}
+.xiao-li-facebook-link {
+  text-decoration: none;
+  color: blue;
+}
+.xiao-qing-facebook-link {
+  text-decoration: none;
+  color: blue;
+}
+.thart-img {
+  width: 350px;
+  border-radius: 30px;
+}
+/* footer */
